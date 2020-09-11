@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "New Mexico"
   date_start = "2019-08-20"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
   title = "Graduate Teaching Assistant"
